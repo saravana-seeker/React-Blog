@@ -1,0 +1,17 @@
+
+.Navbar {
+    font-weight: bold;
+}
+
+.Navbar ul li a {
+    padding: 5px 20px;
+    margin: 0px 10px;
+    border-radius: 5px;
+    
+}
+
+.Navbar ul li a:hover {
+    background-color: white;
+    color: black !important;
+
+}
